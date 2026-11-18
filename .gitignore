@@ -1,0 +1,17 @@
+# Python environment and caches
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# macOS
+.DS_Store
+
+# Large raw data: LOBSTER files are big and may be under licence
+data/
+
+# Generated run outputs
+results/
+
+# Archives of the project
+*.zip
