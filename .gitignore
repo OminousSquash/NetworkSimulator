@@ -8,7 +8,8 @@ __pycache__/
 .DS_Store
 
 # Large raw data: LOBSTER files are big and may be under licence
-data/
+/data/
+/params/
 
 # Generated run outputs
 results/
